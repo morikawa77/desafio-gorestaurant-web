@@ -1,7 +1,7 @@
 <img alt="GoStack" src=".github/header-desafios-new.png" style="width: 100%;"/>
 
 <h3 align="center">
-  Challenge 09: Database relationships in Node.js
+  Challenge 10: GoRestaurant Web
 </h3>
 
 <p align="center">
